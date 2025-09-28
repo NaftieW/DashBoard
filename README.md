@@ -1,7 +1,6 @@
 ## DashBoard
 
-### Criado para apresentação de trabalho acadêmico de Business Intelligence, utilizando Google Locker Studio.
-
+### DashBoard com tema de Cibersegurança em Dispositivos IOT que faz um relatório sobre possíveis riscos e falhas de segurança nos dispositivos IOT de diferentes departamentos de uma empresa.
 <img width="801" height="522" alt="Print DashBoard " src="https://github.com/user-attachments/assets/f657d64a-2723-4a7c-97c3-0c51a6ed4de3" />
 
 
