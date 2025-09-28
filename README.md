@@ -2,8 +2,8 @@
 
 ### Criado para apresentação de trabalho acadêmico de Business Intelligence, utilizando Google Locker Studio.
 
-![Print DashBoard](<img width="801" height="522" alt="Print DashBoard " src="https://github.com/user-attachments/assets/959a7e2f-b00a-4f49-ba68-faf357ec895a" />
-)
+<img width="801" height="522" alt="Print DashBoard " src="https://github.com/user-attachments/assets/f657d64a-2723-4a7c-97c3-0c51a6ed4de3" />
+
 
 ### Stack utilizada 
 - Bloco de notas (tratamento de dados)
